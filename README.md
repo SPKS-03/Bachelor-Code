@@ -1,8 +1,7 @@
-FDR Control and Power in Adaptive Novelty Detection
-
+## FDR Control and Power in Adaptive Novelty Detection
 This repository contains the code used for the Bachelor project "FDR Control and Power in Adaptive Novelty Detection" in Mathematical Engineering at Aalborg University by group MT6-01.
 
-Repository structure
+### Repository structure
 
 The repository contains the following files:
 - figure_PU_classification_example.py: Script used to generate Figure 6.2.
